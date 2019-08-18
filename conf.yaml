@@ -1,0 +1,11 @@
+app-name: "radio-bot-nlp"
+
+dev:
+  env: dev
+  store-path: ""
+  service-account: C://Users//germa//glc-01-b24bd302c74d.json
+
+prod:
+  env: prod
+  store-path: /temp/
+  service-account: glc-01-b24bd302c74d.json
